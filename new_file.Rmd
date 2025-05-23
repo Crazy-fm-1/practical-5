@@ -5,3 +5,9 @@ date: "2025-05-23"
 output: html_document
 ---
 
+1)  How many liters of Beer have been drunken at the Oktoberfest in Munich in 2019? 🍻
+    2000 l
+    2)  How many people live in Karlsruhe? (Exactly) 🏘️
+    563237
+    3)  What percentage of Americans asked in a survey in 2017, indicated that they believe in Astrology? 🌟
+    62%
